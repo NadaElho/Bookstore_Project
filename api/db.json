@@ -1,0 +1,225 @@
+{
+  "registers": [
+    {
+      "id": 1,
+      "username": "Rana",
+      "mail": "rana123@gmail.com",
+      "phone": "01212125588",
+      "password": "123123"
+    },
+    {
+      "name": "Nada",
+      "mail": "nada123@gmail.com",
+      "phone": "01212681545",
+      "Password": "nada123",
+      "id": 2
+    }
+  ],
+  "Engproducts": [
+    {
+      "id": 1,
+      "title": "EMMA V LEECH",
+      "src": "/images/img1.jpg",
+      "price": "400$",
+      "content": "The Prince Corin ... Decadent, seductive, master of the love affair.Corin is crown prince of Alfheim, the Elven lands. Considered the handsomest man in the land, he is well used to the females in his life indulging his every desire. But after losing the first woman who ever touched his heart to his best friend, he swears he'll never let anyone get that close again."
+    },
+    {
+      "id": 2,
+      "title": "The DEMON",
+      "src": "/images/img2.jpg",
+      "content": "A woman (Mayumi Ogawa) pays a visit to her former lover's (Ken Ogata) house and leaves their three children in the care of his shocked wife (Shima Iwashita).",
+      "price": "600$"
+    },
+    {
+      "id": 3,
+      "title": "Contempporary Fairy",
+      "src": "./images/img3.jpg",
+      "content": "Contemporary Fairy-Tale Magic, edited by Lydia Brugué and Auba Llompart, studies the impact of fairy tales on contemporary cultures from an interdisciplinary perspective",
+      "price": "800$"
+    },
+    {
+      "id": 4,
+      "title": "Voices Of The Tempest",
+      "src": "./images/img4.jpg",
+      "content": "Voice of The Tempest is a Melee Weapon and is one of the Weapons in Remnant: From the Ashes. Voice of The Tempest is a Craftable Item. Weapons are used to deal damage to Enemies and Bosses. Each weapon has different attack values and is, therefore, more or less effective which can be upgraded to increase its stats.",
+      "price": "500$"
+    },
+    {
+      "id": 5,
+      "title": "Eat To Love",
+      "src": "./images/img5.jpg",
+      "content": "Eat to Love is a Buddhist approach to conquering dieting insanity, which has insidiously infiltrated our culture and perpetuated an unnecessary source of suffering, especially for women. This refreshing and compassionate book will help heal your relationship with food, mind, and body.” — Evelyn Tribole, MS, RDN, CEDRD-S, co-author of Intuitive Eating",
+      "price": "480$"
+    },
+    {
+      "id": 6,
+      "title": "Sustainble minmalism",
+      "src": "./images/img6.jpg",
+      "content": "This is the perfect book for people that want to find a realistic roadmap to sustainable living.” The Holistic Millennial",
+      "price": "660$"
+    },
+    {
+      "id": 7,
+      "title": "A Life In Mountain",
+      "src": "./images/img7.jpg",
+      "content": "In Life on the Mountains Terry presents more than 100 exclusive photos from a decade on the fells, and speaks candidly about his troubled early life, a disowned father, depression and his love of real ale before revealing the tricks and techniques of his craft and detailing the landscapes he’s grown to love.",
+      "price": "700$"
+    },
+    {
+      "id": 8,
+      "title": "Green Book",
+      "src": "./images/img8.jpg",
+      "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+      "price": "980$"
+    },
+    {
+      "id": 9,
+      "title": "Coding For Kids",
+      "src": "./images/img9.jpg",
+      "content": "Coding for Kids is a beginner’s guide to coding for kids, young teens, and adults alike.Coding is the modern world's DNA. To create any website, phone app, computer software, and even to make several everyday appliances functional, you need coding. This is why coders play such an important role in defining the digital era and the future, the world needs coders!",
+      "price": "350$"
+    },
+    {
+      "id": 10,
+      "title": "Five Dinosaurs",
+      "src": "./images/img10.jpg",
+      "content": "Count the little dinosaurs 1, 2, 3, 4, 5, playing in the park! Friendship and sharing are on display in this fun, vibrantly illustrated story, which includes an educational counting element.Great for fans of dinosaurs, or as an introduction to dinosaurs, this counting book also instills a lesson on friendship and inclusion. Shy dinosaurs are alone, but then grow from 1 to 5 as they include other shy dinosaurs to make for a wonderful day of fun together. Come count with all the dino friends.",
+      "price": "200$"
+    },
+    {
+      "id": 11,
+      "title": "The Ultimate Book",
+      "src": "./images/img11.jpg",
+      "content": "A fun book to ignite curiosity about the solar system. Learn all about rocket ships, astronauts, and the fascinating world of space exploration: The rover Curiosity lands on the surface of Mars, astronauts prepare for takeoff... Best of all, lots of flaps, popups, pull-tabs, and rotating wheels bring space shuttles, satellites, and planets to life. Readers will learn about the Milky Way and the universe, explore the International Space Station, and help astronauts complete their NASA training. Any child who has ever dreamed of space exploration will adore this extraordinary look at outer space.",
+      "price": "500$"
+    },
+    {
+      "id": 12,
+      "title": "Goodbye,Things",
+      "src": "./images/img12.jpg",
+      "content": "The best-selling phenomenon from Japan that shows us a minimalist life is a happy life. Fumio Sasaki is not an enlightened minimalism expert or organizing guru like Marie Kondo—he’s just a regular guy who was stressed out and constantly comparing himself to others, until one day he decided to change his life by saying goodbye to everything he didn’t absolutely need.",
+      "price": "1000$"
+    },
+    {
+      "id": 13,
+      "title": "Frankenstein",
+      "src": "./images/img13.jpg",
+      "content": "Mary Shelley’s Frankenstein is a Gothic horror novel about a man named Victor Frankenstein who discovers the secret to creating life. He uses this knowledge to form a hideous monster, which becomes the source of his misery and demise.",
+      "price": "900$"
+    },
+    {
+      "id": 14,
+      "title": "Art+Fashion",
+      "src": "./images/img14.jpg",
+      "content": "A volume of magnificent proportions, Art + Fashion is as exciting and elegant as the creative partnerships it celebrates. Spanning numerous eras, men and women's fashion, and a wide range of art mediums, these 25 collaborative projects reveal the astonishing work that results when luminaries from the art world (such as Pollock, Haring, and Hirst) come together with icons of the fashion world (including Saint Laurent, Westwood, McQueen). ",
+      "price": "700$"
+    },
+    {
+      "id": 15,
+      "title": "the Ultimate book ",
+      "src": "./images/img11.jpg",
+      "content": "The Ultimate Book Of Quotations is an invaluable tool for writers, public speakers, coaches, business leaders or anyone who wishes to improve communications. This book is conveniently organized by subjects with over 500 pages of quotations for every occasion , Including motivational quotes, friendship quotes, life quotes, love quotes, funny quotes, famous quotes, inspirational quotes, happiness quotes and many more. ",
+      "price": "1800$"
+    },
+    {
+      "id": 16,
+      "title": "Forest Bathing",
+      "src": "./images/img16.jpg",
+      "content": "In a book hitting shelves this month, Forest Bathing: How Trees Can Help You Find Health And Happiness, Dr. Qing Li, the world's foremost expert in forest medicine, introduces readers to the healing practice of forest bathing — and the art and science of how trees can enrich your life.",
+      "price": "1400$"
+    },
+    {
+      "id": 17,
+      "title": "The Animated Series",
+      "src": "./images/img17.jpg",
+      "content": "A comprehensive guide reveals details of all of the major characters from the Batman television show, based on the original DC Comics series, and introduces a darker and more complex Caped Crusader.",
+      "price": "1800"
+    },
+    {
+      "id": 18,
+      "title": "Castle In The Skys",
+      "src": "./images/img15.jpg",
+      "content": "The definitive examination of the art and animation of Studio Ghibli’s masterpiece of fantasy and flight, Castle in the Sky! The latest in the perennially popular line of Studio Ghibli art books, which includes interviews, concept sketches, and finished animation cels from classics such as Spirited Away and My Neighbor Totoro.",
+      "price": "1100$"
+    }
+  ],
+  "Araproducts": [
+    {
+      "id": 19,
+      "title": "نظرية الفستق",
+      "src": "/images/img18.jpeg",
+      "content": "كـل إنسان حولك «مـزيـج» نفسي ووراثي وثقافي لا يتكرر بين فـردين. فـأنا وأنت وأي شخص تعرفه (محصلة) لـعناصر وظروف ومؤثرات لا تتشابه حتى بين التوائم. نتحول بمرور العمر وتنوع الخبرات إلى حقيبة (بـأرقام سرية) لا نعرف حتى نحن كيف نفـتحها ونرى محتوياتها",
+      "price": "800$"
+    },
+    {
+      "id": 20,
+      "title": "لاعب الشطرنج",
+      "src": "/images/img19.jpeg",
+      "content": "كتاب لاعب الشطرنج: يقوم جوهر هذه الرواية على شخصين مسافرين هم لاعب الشطرنج العالمي “ميركو كزنتوفيك” الذي توفي والده غرقا وكان يعمل بحار وعاني فترة طويلة بسبب عدم أهليته وعدم تمكنه من القراءة والكتابة، ولكنه لديه موهبة خارقة في الشطرنج، كما قادته الأقدار للعب أمام قائد متقاعد وبالفعل تمكن من هزيمته وبهذا زاع صيته في النمسا كلها",
+      "price": "900$"
+    },
+    {
+      "id": 21,
+      "title": "استراحة نفسيـة",
+      "src": "./images/img26.jpeg",
+      "content": "كتاب يمزج بين العلم والدين والفلسفة، ليصنع وعيًا جديدًا يقودنا لحياة ذات صحة نفسية أفضل",
+      "price": "400$"
+    },
+    {
+      "id": 22,
+      "title": "بدأت أفكر",
+      "src": "./images/img21.jpeg",
+      "content": "بدأت افكر....هنا البعض من الحياة وقليلا من الحب والكثير من الاعتقادات والافكار التي تجعلك تضحك ساخرا وان كنت مليئا بالدهشة وتصاب بالشك وانت معافى باليقين",
+      "price": "600$"
+    },
+    {
+      "id": 23,
+      "title": "هزيان",
+      "src": "./images/img22.jpeg",
+      "content": "ذا البيت القديم تعيش به حكاية،تعيش به أشياء تنتظر الإجابات، تنتظر منا أن ننفض من عليها ذلك الغبار العتيق،لكشف أسراره التي ماتت في تلك الغرفة المحروقة، و نكتشف به تلك الأقنعة التي ارتداها أصحابه عنوة، ذاك الصراخ يأتي من بعيد، يأتي مكتوما من إحدى تلك الغرف، يبدو أن هناك حكاية تعيش ما بين حيطانه،حكاية خارجة عن المألوف",
+      "price": "1100$"
+    },
+    {
+      "id": 24,
+      "title": "الحياة الطيبة",
+      "src": "./images/img23.jpeg",
+      "content": "هذه الحصيلة القرائية في جدليات الحياة الطيبة وأسبابها، سعيًا إلى لفت انتباهك نحو الطرائق الصائبة لبلوغها، مُستندًا في تشكيلها على إرثٍ طويل من البحث والاشتغال ظلّت معه الحياة الطيبة مدار الجدل والنزاع بين الفلاسفة والعلماء. أقدّم إليك، في هذا الكتاب، دليلًا عِلميا عَمليا لمدة أربعة عشر يومًا، سنُطارح فيه سويًا أسباب الشقاء والتعاسة، ونقدم بديلًا عن ذلك خطوات النماء والسعادة. نلخّص أسباب التعاسة في ثلاثة: (1) الندم على الماضي، و(2) عدم القناعة بالحاضر، و(3) القلق من المستقبل؛ ونُلخّص مراحل السعادة في ثلاثة: (1) النجاء  و(2) الصفاء  و(3) النماء",
+      "price": "700$"
+    },
+    {
+      "id": 25,
+      "title": "لاتتركني وحيداً",
+      "src": "./images/img24.jpeg",
+      "content": "تأتي أهمية هذه الرواية من كونها موسوعة كاملة عن مرض التوحد وما يجب على الأهل فعله اتجاه طفلهم المريض، والتعريف بأساليب العلاج الحديثة في المراكز الطبية، كما أنها رواية توجه نداءً عاماً للمجتمع؛ فالتوحد بحاجة لتوحد، توحد جهود مركز علاج وأسرة ومجتمع، لذلك ترفع الرواية شعار لنتوحد لأجلهم، ولا نتركهم وحيدين. أيضاً تأتي أهمية هذه الرواية من كونها تلقي الضوء على العالم الداخلي للطفل المتوحد، فعدم قدرته على الكلام والتعبير وشرح معاناته لا يعني أنه لا يفهم ما يدور حوله فهو يشعر ويرغب ويحب أشياء ويرفض أخرى",
+      "price": "800$"
+    },
+    {
+      "id": 26,
+      "title": "هاري بوتـر",
+      "src": "./images/img20.jpeg",
+      "content": "هاري بوتر وسجين أزكابان هي رواية خيالية كتبتها المؤلفة البريطانية جيه. كيه. رولينغ وهي الثالثة في سلسلة هاري بوتر. تتابع الرواية هاري بوتر -الساحر الشاب- في عامه الثالث في مدرسة هوغورتس للسحر والشعوذة. يحقق هاري وأصدقاؤه رون ويزلي وهيرميون غرينجر مع سيرياس بلاك -السجين الهارب من سجن أزكابان، وهو سجن سحر في بحر الشمال- إذ يظنونه أحد حلفاء اللورد فولدمورت القدامى",
+      "price": "1200$"
+    },
+    {
+      "id": 27,
+      "title": "فاتتني صلاة",
+      "src": "./images/img27.jpeg",
+      "content": "هذا الكتاب من الكتب التي تسير علي الوتيرة الدينية التي نفتقدها في مجتمعنا الحالي فقد اهملنا الاتجاه الديني لدرجة كبيرة إنه يتحدث عن  الذين لا يصلون ولايقيموها في اوقاتها الصحيحة ويبين أن طريق السعادة والطمأنينة هو المواظبة عليها، وذلك لأنها ركن اساسي من اركان الاسلام، فإذا خل هذا الركن سقطت كل الأركان الأخرى التي يبني عليها الاسلام",
+      "price": "1100$"
+    }
+  ],
+  "cart": [
+    {
+      "id": 5,
+      "src": "./images/img5.jpg",
+      "price": "480$",
+      "title": "Eat To Love"
+    },
+    {
+      "id": 20,
+      "src": "/images/img19.jpeg",
+      "price": "900$",
+      "title": "لاعب الشطرنج"
+    }
+  ]
+}

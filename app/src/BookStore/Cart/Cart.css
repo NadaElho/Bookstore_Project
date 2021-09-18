@@ -1,0 +1,39 @@
+#image{
+    height: 50px;
+    width: 50;
+}
+
+.table{
+   color: black;
+   text-transform: uppercase;
+   font-family: sans-serif;
+   text-align: center;
+   background-color:white;
+   margin: 3px;
+   padding: 3px;
+   width: 100%;
+   border-collapse: collapse;
+   margin: auto;
+
+}
+
+td{
+  
+   height: 50px;
+   width: 300px;
+   text-align: center;
+   vertical-align:middle;
+}
+
+#bit{
+    border-color:#d27979 ;
+    color: #d27979;
+    margin: auto;
+    display: block;
+}
+
+#bit:hover{
+    color: white;
+    background-color: #d27979;
+}
+

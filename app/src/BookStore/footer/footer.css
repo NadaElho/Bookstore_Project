@@ -1,0 +1,39 @@
+.footer{
+    background-color:black;
+    text-align: center;
+}
+
+.footer .share{
+    padding:1rem 0;
+}
+
+.footer .share a{
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    color:#fff;
+    margin:.3rem;
+    border-radius: 40%;
+}
+
+.footer .share a:hover{
+    background-color: #d27979;
+}
+
+
+
+.footer .credit{
+    font-size: 2rem;
+    color:#fff;
+    font-weight: lighter;
+    padding:1.5rem;
+}
+
+.footer .credit span{
+    color:#d27979;
+}
+
+#s{
+    text-decoration: none;
+}
